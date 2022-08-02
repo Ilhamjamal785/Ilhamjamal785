@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamal</h1>
+
 - ✍️ I’m currently studying on **SMK Telkom Malang**
 
 - 🌱 I’m currently learning **html,css,javascript,php**
